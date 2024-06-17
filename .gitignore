@@ -159,6 +159,7 @@ cython_debug/
 
 #tutorial files
 test_db/
+*.fa
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
