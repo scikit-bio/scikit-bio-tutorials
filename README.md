@@ -8,7 +8,7 @@ https://www.iscb.org/ismb2024/programme-schedule/tutorials#ip3
 The tutorial is broken down as follows, Google Colab notebooks can be launched via the following links
 
 1. [Section 01: Basic bioinformatics using scikit-bio](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/01-basic-bioinfo/01-basic-bioinfo.ipynb)
-2. [Section 02: Embeddings and Vectors with Scikit-Bio](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/02-language-model/language_model_tutorial.ipynb)
+2. [Section 02: Embeddings and Vectors with Scikit-Bio](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/02-language-model/02-language-model-tutorial.ipynb)
 3. [Section 03: Working with various omic data types](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/03-omic-data-types/03-omic-data-types.ipynb)
 4. [Section 04: Analyzing microbial communities](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/04-community-structure/04-community-structure.ipynb)
 5. [Section 05 : Comparing microbial community structure](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/05-community-diversity/05-community-diversity.ipynb)
