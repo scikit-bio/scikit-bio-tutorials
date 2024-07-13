@@ -28,7 +28,8 @@ Alternatively, the tutorial materials (notebooks, slides, and datasets) are shar
 # References
 1. [Protein remote homology detection and structural alignment using deep learning](https://www.nature.com/articles/s41587-023-01917-2)
 2. [ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Learning](https://www.biorxiv.org/content/10.1101/2020.07.12.199554v3)
-3. [Establishing microbial composition measurement standards with reference frames](https://www.nature.com/articles/s41467-019-10656-5)
-4. [Unifying the analysis of high-throughput sequencing datasets: characterizing RNA-seq, 16S rRNA gene sequencing and selective growth experiments by compositional data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030730/)
-5. [Balances: a New Perspective for Microbiome Analysis](https://pubmed.ncbi.nlm.nih.gov/30035234/)
-6. [Compositionally Aware Phylogenetic Beta-Diversity Measures Better Resolve Microbiomes Associated with Phenotype](https://journals.asm.org/doi/10.1128/msystems.00050-22)
+3. [UniFrac: a New Phylogenetic Method for Comparing Microbial Communities ](https://journals.asm.org/doi/10.1128/AEM.71.12.8228-8235.2005)
+4. [Establishing microbial composition measurement standards with reference frames](https://www.nature.com/articles/s41467-019-10656-5)
+5. [Unifying the analysis of high-throughput sequencing datasets: characterizing RNA-seq, 16S rRNA gene sequencing and selective growth experiments by compositional data analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4030730/)
+6. [Balances: a New Perspective for Microbiome Analysis](https://pubmed.ncbi.nlm.nih.gov/30035234/)
+7. [Compositionally Aware Phylogenetic Beta-Diversity Measures Better Resolve Microbiomes Associated with Phenotype](https://journals.asm.org/doi/10.1128/msystems.00050-22)
