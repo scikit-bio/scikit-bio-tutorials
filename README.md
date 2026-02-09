@@ -15,7 +15,7 @@ The tutorials are broken down into eight sections. They can be directly launched
 
 ### Microbiome data analysis
 
-2. [Working with various omic data types](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/02-omic-data-types/02-omic-data-types.ipynb)
+2. [Working with various omic data types](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/02-multi-omic-data/02-multi-omic-data.ipynb)
 3. [Analyzing microbial communities](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/03-community-structure/03-community-structure.ipynb)
 4. [Comparing microbial community structure](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/04-community-diversity/04-community-diversity.ipynb)
 5. [Inferring and associating critical features](https://colab.research.google.com/github/scikit-bio/scikit-bio-tutorials/blob/main/05-marker-inference/05-marker-inference.ipynb)
